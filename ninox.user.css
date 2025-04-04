@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           ninox party
+@namespace      umakers.dk/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("app.ninox.com") {
+
+   div.string-editor div.nx-input {height: fit-content !important; min-height:30px }    
+   div.nx-input--multiline {min-height:250px; background:blue}
+
+}
