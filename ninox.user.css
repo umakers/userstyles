@@ -9,6 +9,6 @@
 @-moz-document domain("app.ninox.com") {
 
    div.string-editor div.nx-input {height: fit-content !important; min-height:30px }    
-   div.nx-input--multiline {min-height:250px; background:yellow}
+   div.nx-input--multiline {min-height:250px;}
 
 }
